@@ -60,10 +60,10 @@ return [
 
         'mysql' => [
             'driver'    => 'mysql',
-            'host'      => env('DB_HOST', 'localhost'),
-            'database'  => env('DB_DATABASE', 'forge'),
-            'username'  => env('DB_USERNAME', 'forge'),
-            'password'  => env('DB_PASSWORD', ''),
+            'host'      => env('DB_HOST', '4ourthg.com'),
+            'database'  => env('DB_DATABASE', 'ourthgco_snipe'),
+            'username'  => env('DB_USERNAME', 'ourthgco'),
+            'password'  => env('DB_PASSWORD', '70Juu94ojU'),
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => env('DB_PREFIX', null),
