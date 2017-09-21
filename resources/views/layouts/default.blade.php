@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="{{ asset('assets/js/plugins/iCheck/all.css') }}">
 
     <!-- Theme style -->
-    <link rel="stylesheet" href="{{ asset('assets/css/skins/skin-blue.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/skins/skin-black.css') }}">
 
     <!-- bootstrap tables CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap-table.css') }}">
@@ -589,8 +589,7 @@
           <a target="_blank" class="btn btn-default btn-xs" href="https://snipe-it-manual.readme.io">User's Manual</a>
           <a target="_blank" class="btn btn-default btn-xs" href="https://snipeitapp.com/support/">Report a Bug</a>
         </div>
-        <a target="_blank" href="https://snipeitapp.com">Snipe-IT</a> is an open source
-        project, made with <i class="fa fa-heart" style="color: #a94442; font-size: 10px"></i> by <a href="https://twitter.com/snipeyhead">@snipeyhead</a>.
+        <a target="_blank" href="https://snipeitapp.com">Asset-Man</a> is a product of <a href="https://twitter.com/snipeyhead">MHM Resources</a>.
       </footer>
 
 
