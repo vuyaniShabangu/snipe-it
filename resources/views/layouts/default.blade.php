@@ -103,7 +103,7 @@
         <!-- Header Navbar: style can be found in header.less -->
         <nav class="navbar navbar-static-top" role="navigation">
           <!-- Sidebar toggle button above the compact sidenav -->
-          <a href="#" style="color: #A9A9A9" class="sidebar-toggle btn btn-white" data-toggle="offcanvas" role="button">
+          <a href="#" style="color: #A9A9A9 !important" class="sidebar-toggle btn btn-white" data-toggle="offcanvas" role="button">
             <span class="sr-only">Toggle navigation</span>
           </a>
           <ul class="nav navbar-nav navbar-left">
