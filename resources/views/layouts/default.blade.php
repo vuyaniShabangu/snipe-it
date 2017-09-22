@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="{{ asset('assets/js/plugins/iCheck/all.css') }}">
 
     <!-- Theme style -->
-    <link rel="stylesheet" href="{{ asset('assets/css/skins/skin-yellow.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/skins/skin-blue.css') }}">
 
     <!-- bootstrap tables CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap-table.css') }}">
