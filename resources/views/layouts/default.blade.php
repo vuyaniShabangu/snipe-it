@@ -67,6 +67,10 @@
         clear: none;
       }
     }
+
+    .skin-blue .main-header .navbar .nav > li > a {
+    color: black !important;
+}
     </style>
 
     <script>
