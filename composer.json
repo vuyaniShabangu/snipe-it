@@ -26,7 +26,6 @@
       "neitanod/forceutf8": "dev-master",
       "pragmarx/google2fa": "^1.0",
       "ext-gd": "*"
-      
     },
     "require-dev": {
       "fzaninotto/faker": "~1.4",
