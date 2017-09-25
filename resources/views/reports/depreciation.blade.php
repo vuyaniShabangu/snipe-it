@@ -119,7 +119,7 @@
                     {{ $snipeSettings->default_currency }}
                 @endif
 
-                -{{ \App\Helpers\Helper::formatCurrencyOutput(($asset->purchase_cost - $asset->getDepreciatedValue())) }}
+                {{ \App\Helpers\Helper::formatCurrencyOutput(($asset->purchase_cost - $asset->getDepreciatedValue())) }}
                 </td>
             <td class="align-right">
             @if ($asset->assetloc )
@@ -128,7 +128,7 @@
                     {{ $snipeSettings->default_currency }}
                 @endif
 
-                {{ \App\Helpers\Helper::formatCurrencyOutput($asset->getDepreciatedValue()) }}
+                -{{ \App\Helpers\Helper::formatCurrencyOutput($asset->getDepreciatedValue()) }}
                </td>
             @else
 	            <td></td>
