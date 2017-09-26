@@ -589,11 +589,11 @@
       <footer class="main-footer">
         <div class="pull-right hidden-xs">
           <b>Version</b> {{ config('version.app_version') }}  build {{ config('version.build_version') }} ({{ config('version.hash_version') }})
-          <a target="_blank" class="btn btn-default btn-xs" href="https://snipe-it.readme.io">Documentation</a>
+          <!--<a target="_blank" class="btn btn-default btn-xs" href="https://snipe-it.readme.io">Documentation</a>-->
           <a target="_blank" class="btn btn-default btn-xs" href="https://snipe-it-manual.readme.io">User's Manual</a>
-          <a target="_blank" class="btn btn-default btn-xs" href="https://snipeitapp.com/support/">Report a Bug</a>
+          <a target="_blank" class="btn btn-default btn-xs" href="https://snipeitapp.com/support/">Support</a>
         </div>
-        <a target="_blank" href="https://snipeitapp.com">Asset-Man</a> is a product of <a href="https://twitter.com/snipeyhead">MHM Resources</a>.
+        <a target="_blank" href="www.mhmholings.co.za/asset-man">Asset-Man</a> is a product of <a href="www.mhmholings.co.za">MHM Resources Pty Ltd.</a>.
       </footer>
 
 
